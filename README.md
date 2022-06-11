@@ -8,5 +8,6 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 1. _______](_______)
 * [Проект 2. _______](_______)
+* [Проект 3. _______](_______)
 
 # data_science_study
