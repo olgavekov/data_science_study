@@ -6,7 +6,6 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 0. Игра: Угадай число](https://github.com/olgavekov/data_science_study.git)
 
-* [Проект 1. _______](_______)
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
@@ -24,6 +23,7 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 Учимся писать хороший код на python
 
 
+* [Проект 1. _______](_______)
 * [Проект 2. _______](_______)
 * [Проект 3. _______](_______)
 
