@@ -23,7 +23,7 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 Учимся писать хороший код на python
 
 
-* [Проект 1. База данных hh.ru](https://github.com/olgavekov/data_science_study/tree/project_1)
+* [Проект 1. База данных hh.ru](https://github.com/olgavekov/data_science_study/tree/Project_1)
 
 ### Описание задачи 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
