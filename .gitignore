@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# file more than 25 MB
+hh_database.csv
+*.csv
+
