@@ -33,8 +33,9 @@ From the [skillfactory Data Science course](https://skillfactory.ru/data-scienti
 - разведывательный анализ
 - очистка данных
 
-### Ссылка на файл (https://drive.google.com/drive/u/0/folders/1gxuzlzsVo2gDAFLTNJkpRpEiBgw_gQkv)
+###### Ссылка на файл (https://drive.google.com/drive/u/0/folders/1gxuzlzsVo2gDAFLTNJkpRpEiBgw_gQkv)
 - данный файл имеет объем > 25МБ и поэтому он не загружается на GitHub (включен в .gitignore)
+###### Ссылка на диаграммы Plotly-jpg (https://github.com/olgavekov/data_science_study/tree/Project_1/data)
 
 **Что практикуем**     
 - Учимся работать с базами данных Pandas: создание признаков, консолидация DataFrames
